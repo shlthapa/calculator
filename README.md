@@ -1,2 +1,2 @@
+"# calculator"
 # calculator
-my first JavaScript project 
